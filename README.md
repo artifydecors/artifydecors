@@ -82,7 +82,7 @@
   </section>  <section id="contact" class="section">
     <h2>Contact Us</h2>
     <p>Email: artifydecors@gmail.com</p>
-    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Phone: +91-7702903435</p>
     <p>WhatsApp Available</p>
     <form>
       <input type="text" placeholder="Your Name" required /><br><br>
